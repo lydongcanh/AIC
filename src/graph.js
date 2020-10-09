@@ -55,28 +55,65 @@ export const edges = [
     "target": 3,
   },
   {
+    "source": 0,
+    "target": 5,
+  },
+
+  {
     "source": 1,
     "target": 4,
   },
   {
     "source": 1,
+    "target": 6,
+  },
+  {
+    "source": 0,
+    "target": 8,
+  },
+
+  {
+    "source": 2,
     "target": 5,
   },
   {
     "source": 2,
-    "target": 6,
+    "target": 9,
   },
+
   {
-    "source": 2,
+    "source": 3,
     "target": 7,
   },
+  // {
+  //   "source": 3,
+  //   "target": 9,
+  // },
+
+  // {
+  //   "source": 4,
+  //   "target": 2,
+  // },
+  // {
+  //   "source": 5,
+  //   "target": 7,
+  // },
+  // {
+  //   "source": 6,
+  //   "target": 8,
+  // },
   {
-    "source": 3,
-    "target": 8,
+    "source": 7,
+    "target": 1,
   },
   {
-    "source": 3,
+    "source": 8,
     "target": 9,
+  },
+
+  {
+    "source": 9,
+    "target": 1,
   },
 ]
 
@@ -96,6 +133,8 @@ export const bfs = (start, end) => {
     if (currentNode == null || visited.find(node => node.id == currentNode.id))
       continue;
 
+    console.log(currentNode, end);
+    
     visited.push(currentNode);
 
     if (currentNode.id == end.id) 
