@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/aic/static/js/main.0a725341.chunk.js",
-    "main.js.map": "/aic/static/js/main.0a725341.chunk.js.map",
-    "runtime-main.js": "/aic/static/js/runtime-main.a5d4b7dc.js",
-    "runtime-main.js.map": "/aic/static/js/runtime-main.a5d4b7dc.js.map",
-    "static/js/2.7080a5a4.chunk.js": "/aic/static/js/2.7080a5a4.chunk.js",
-    "static/js/2.7080a5a4.chunk.js.map": "/aic/static/js/2.7080a5a4.chunk.js.map",
-    "index.html": "/aic/index.html",
-    "precache-manifest.35ebade12d74f90012b8a2bfd6da1e11.js": "/aic/precache-manifest.35ebade12d74f90012b8a2bfd6da1e11.js",
-    "service-worker.js": "/aic/service-worker.js",
-    "static/js/2.7080a5a4.chunk.js.LICENSE.txt": "/aic/static/js/2.7080a5a4.chunk.js.LICENSE.txt"
+    "main.js": "/AIC/static/js/main.e0d8d687.chunk.js",
+    "main.js.map": "/AIC/static/js/main.e0d8d687.chunk.js.map",
+    "runtime-main.js": "/AIC/static/js/runtime-main.6a8afb58.js",
+    "runtime-main.js.map": "/AIC/static/js/runtime-main.6a8afb58.js.map",
+    "static/js/2.7080a5a4.chunk.js": "/AIC/static/js/2.7080a5a4.chunk.js",
+    "static/js/2.7080a5a4.chunk.js.map": "/AIC/static/js/2.7080a5a4.chunk.js.map",
+    "index.html": "/AIC/index.html",
+    "precache-manifest.84f3fc511afdf2608b5800c831b27139.js": "/AIC/precache-manifest.84f3fc511afdf2608b5800c831b27139.js",
+    "service-worker.js": "/AIC/service-worker.js",
+    "static/js/2.7080a5a4.chunk.js.LICENSE.txt": "/AIC/static/js/2.7080a5a4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5d4b7dc.js",
+    "static/js/runtime-main.6a8afb58.js",
     "static/js/2.7080a5a4.chunk.js",
-    "static/js/main.0a725341.chunk.js"
+    "static/js/main.e0d8d687.chunk.js"
   ]
 }
